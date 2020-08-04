@@ -22,4 +22,4 @@ To install, use `ninja install`
 
 If you wish to build without using Meson, run the following command
 
-    valac --pkg gee-0.8 --pkg gio-2.0 --pkg toml-glib src/example.vala
+    valac --pkg toml-glib src/example.vala
