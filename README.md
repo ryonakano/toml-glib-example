@@ -1,12 +1,12 @@
 # A Small Example of TOML GLib
 
-This repository contains a small example of [TOML GLib](https://github.com/AnaGelez/toml-glib).
+This repository contains a small example of [TOML GLib](https://github.com/elegaanz/toml-glib).
 
 ## Building and Installation
 
 You'll need the following dependencies:
 
-* [toml-glib](https://github.com/AnaGelez/toml-glib)
+* [toml-glib](https://github.com/elegaanz/toml-glib)
 * meson
 * valac
 
