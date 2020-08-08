@@ -1,5 +1,7 @@
 # A Small Example of TOML GLib
 
+> Now it's possible to declare `toml-glib` in pkgconfig name like `gtk+-3.0` or `granite`, so this project has less meaning.
+
 This repository contains a small example of [TOML GLib](https://github.com/elegaanz/toml-glib).
 
 ## Building and Installation
